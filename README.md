@@ -14,3 +14,4 @@ Projekt składa się z trzech głównych modułów zrealizowanych w jednym skryp
 - **Python 3.x**
 - **Pandas / NumPy** - inżynieria cech, symulacja zależności biznesowych i manipulacja strukturami danych.
 - **Scikit-Learn** - podział zbioru (Train/Test Split), trenowanie modelu `RandomForestClassifier` oraz ewaluacja skuteczności (`accuracy_score`, `classification_report`).
+
